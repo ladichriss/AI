@@ -1,0 +1,15 @@
+
+@import url(pageTitle.css);
+@import url(footer.css);
+@import url(mainContent.css);
+
+.Images {
+    width: 626px;
+    height: 380px;
+}
+
+.Images-1 {
+    width: 400px;
+    height: 500px;
+    padding-top: 60px;
+}

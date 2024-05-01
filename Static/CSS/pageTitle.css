@@ -1,0 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300..700&display=swap');
+
+.pageTitle {
+    background-color: rgb(34, 185, 223);
+    padding: 70px;
+    text-align: center;
+}
+
+.articleTitle {
+    font-family: 'Signika Negative';
+    font-size: 55px;
+}

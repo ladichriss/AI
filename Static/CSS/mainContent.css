@@ -1,0 +1,30 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300..700&display=swap');
+
+.mainContent .container {
+    padding-top: 25px;
+}
+
+.Title {
+    font-size: 35px;
+    font-family: 'Signika Negative';
+    color: rgb(122, 121, 121);
+    padding-top: 25px;
+}
+
+.Paragraph {
+    font-size: 20px;
+    font-family: 'Signika Negative';
+    
+}
+
+.separatore {
+    border: 5px solid;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+.listItem {
+    text-decoration: none;
+    list-style: none;
+}
