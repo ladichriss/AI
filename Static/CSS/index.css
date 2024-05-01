@@ -6,11 +6,13 @@
 .Images {
     width: 626px;
     height: 380px;
+    border-radius: 5%;
 }
 
 .Images-1 {
     width: 626px;
     height: 380px;
+    border-radius: 5%;
 }
 
 .mainContent {
